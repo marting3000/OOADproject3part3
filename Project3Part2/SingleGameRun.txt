@@ -1,0 +1,336 @@
+Welcome to RotLA!
+Starting game...
+Starting board:
+    0-1-1: BSTR
+    1-0-0:   :     1-0-1:   :     1-0-2:   : SS
+    1-1-0:   :     1-1-1:   :     1-1-2:   : 
+    1-2-0:   :     1-2-1:   :     1-2-2:   : 
+    2-0-0:   :     2-0-1:   : O    2-0-2:   : 
+    2-1-0:   :     2-1-1:   :     2-1-2:   : 
+    2-2-0:   :     2-2-1:   :     2-2-2:   : O
+    3-0-0:   :     3-0-1:   : SO    3-0-2:   : 
+    3-1-0:   :     3-1-1:   :     3-1-2:   : S
+    3-2-0:   :     3-2-1:   :     3-2-2:   : 
+    4-0-0:   : B    4-0-1:   :     4-0-2:   : 
+    4-1-0:   : B    4-1-1:   : B    4-1-2:   : B
+    4-2-0:   :     4-2-1:   :     4-2-2:   : O
+
+Brawler - 0 Treasure(s) - 0 damage
+Sneaker - 0 Treasure(s) - 0 damage
+Runner - 0 Treasure(s) - 0 damage
+Thief - 0 Treasure(s) - 0 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+
+RotLA Turn 1:
+A Seeker has been killed by the Brawler
+Brawler celebrates, Shout, Dance, Jump, Jump
+    0-1-1: 
+    1-0-0:   :     1-0-1:   :     1-0-2:   : 
+    1-1-0:   :     1-1-1:  BSTR :     1-1-2:   : 
+    1-2-0:   :     1-2-1:   :     1-2-2:   : 
+    2-0-0:   :     2-0-1:   :     2-0-2:   : O
+    2-1-0:   : B    2-1-1:   : B    2-1-2:   : 
+    2-2-0:   :     2-2-1:   : O    2-2-2:   : 
+    3-0-0:   :     3-0-1:   : S    3-0-2:   : O
+    3-1-0:   :     3-1-1:   :     3-1-2:   : S
+    3-2-0:   :     3-2-1:   : B    3-2-2:   : 
+    4-0-0:   :     4-0-1:   :     4-0-2:   : 
+    4-1-0:   :     4-1-1:   :     4-1-2:   : B
+    4-2-0:   :     4-2-1:   : O    4-2-2:   : 
+
+Brawler - 0 Treasure(s) - 0 damage
+Sneaker - 0 Treasure(s) - 0 damage
+Runner - 0 Treasure(s) - 0 damage
+Thief - 0 Treasure(s) - 0 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+RotLA Turn 2:
+The Sneaker has found a treasure!
+The Runner has found a treasure!
+    0-1-1: BT
+    1-0-0:   : B    1-0-1:   :     1-0-2:   : 
+    1-1-0:   :     1-1-1:   :     1-1-2:  S : 
+    1-2-0:   :     1-2-1:   :     1-2-2:  R : 
+    2-0-0:   :     2-0-1:   :     2-0-2:   : 
+    2-1-0:   :     2-1-1:   :     2-1-2:   : O
+    2-2-0:   : O    2-2-1:   :     2-2-2:   : 
+    3-0-0:   :     3-0-1:   : S    3-0-2:   : 
+    3-1-0:   :     3-1-1:   : BB    3-1-2:   : SO
+    3-2-0:   :     3-2-1:   : B    3-2-2:   : 
+    4-0-0:   :     4-0-1:   :     4-0-2:   : 
+    4-1-0:   :     4-1-1:   :     4-1-2:   : 
+    4-2-0:   : O    4-2-1:   :     4-2-2:   : 
+
+Brawler - 0 Treasure(s) - 0 damage
+Sneaker - 1 Treasure(s) - 0 damage
+Runner - 1 Treasure(s) - 0 damage
+Thief - 0 Treasure(s) - 0 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+RotLA Turn 3:
+The Sneaker has found a treasure!
+A Seeker has been killed by the Brawler
+Brawler celebrates, Shout, Dance, Dance, Jump, Spin, Spin
+    0-1-1: 
+    1-0-0:   :     1-0-1:   :     1-0-2:   : 
+    1-1-0:   :     1-1-1:  BST :     1-1-2:   : B
+    1-2-0:   :     1-2-1:   :     1-2-2:  R : 
+    2-0-0:   :     2-0-1:   :     2-0-2:   : 
+    2-1-0:   : O    2-1-1:   :     2-1-2:   : 
+    2-2-0:   :     2-2-1:   : B    2-2-2:   : O
+    3-0-0:   :     3-0-1:   : S    3-0-2:   : 
+    3-1-0:   :     3-1-1:   :     3-1-2:   : S
+    3-2-0:   : B    3-2-1:   :     3-2-2:   : BO
+    4-0-0:   :     4-0-1:   :     4-0-2:   : 
+    4-1-0:   : O    4-1-1:   :     4-1-2:   : 
+    4-2-0:   :     4-2-1:   :     4-2-2:   : 
+
+Brawler - 0 Treasure(s) - 0 damage
+Sneaker - 2 Treasure(s) - 0 damage
+Runner - 1 Treasure(s) - 0 damage
+Thief - 0 Treasure(s) - 0 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+RotLA Turn 4:
+The Brawler has taken damage from the Blinker.
+The Thief has found a treasure!
+A Blinker has been killed by the Sneaker
+Sneaker celebrates, Dance, Dance, Jump, Spin
+    0-1-1: T
+    1-0-0:   :     1-0-1:   :     1-0-2:   : 
+    1-1-0:   :     1-1-1:  R :     1-1-2:  BS : B
+    1-2-0:   :     1-2-1:   :     1-2-2:   : 
+    2-0-0:   : O    2-0-1:   :     2-0-2:   : 
+    2-1-0:   :     2-1-1:   :     2-1-2:   : 
+    2-2-0:   :     2-2-1:   : O    2-2-2:   : 
+    3-0-0:   :     3-0-1:   : S    3-0-2:   : 
+    3-1-0:   :     3-1-1:   :     3-1-2:   : S
+    3-2-0:   :     3-2-1:   : O    3-2-2:   : 
+    4-0-0:   : O    4-0-1:   :     4-0-2:   : 
+    4-1-0:   : B    4-1-1:   : B    4-1-2:   : 
+    4-2-0:   :     4-2-1:   :     4-2-2:   : B
+
+Brawler - 0 Treasure(s) - 1 damage
+Sneaker - 2 Treasure(s) - 0 damage
+Runner - 1 Treasure(s) - 0 damage
+Thief - 1 Treasure(s) - 0 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+RotLA Turn 5:
+The Thief has found a treasure!
+    0-1-1: 
+    1-0-0:   :     1-0-1:   :     1-0-2:   : 
+    1-1-0:   : B    1-1-1:  STR :     1-1-2:   : B
+    1-2-0:   :     1-2-1:   : B    1-2-2:  B : 
+    2-0-0:   :     2-0-1:   : O    2-0-2:   : 
+    2-1-0:   :     2-1-1:   :     2-1-2:   : 
+    2-2-0:   : O    2-2-1:   :     2-2-2:   : B
+    3-0-0:   :     3-0-1:   : S    3-0-2:   : 
+    3-1-0:   :     3-1-1:   :     3-1-2:   : S
+    3-2-0:   : O    3-2-1:   :     3-2-2:   : 
+    4-0-0:   :     4-0-1:   : O    4-0-2:   : 
+    4-1-0:   :     4-1-1:   :     4-1-2:   : 
+    4-2-0:   :     4-2-1:   :     4-2-2:   : 
+
+Brawler - 0 Treasure(s) - 1 damage
+Sneaker - 2 Treasure(s) - 0 damage
+Runner - 1 Treasure(s) - 0 damage
+Thief - 2 Treasure(s) - 0 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+RotLA Turn 6:
+The Brawler has taken damage from the Blinker.
+The Thief has taken damage from the Blinker.
+A Blinker has been killed by the Runner
+Runner celebrates, Shout, Shout, Dance, Jump, Jump, Spin, Spin
+    0-1-1: 
+    1-0-0:  R :     1-0-1:   :     1-0-2:   : 
+    1-1-0:  ST :     1-1-1:   :     1-1-2:  B : B
+    1-2-0:   :     1-2-1:   :     1-2-2:   : 
+    2-0-0:   :     2-0-1:   :     2-0-2:   : O
+    2-1-0:   : O    2-1-1:   :     2-1-2:   : 
+    2-2-0:   :     2-2-1:   :     2-2-2:   : 
+    3-0-0:   :     3-0-1:   : S    3-0-2:   : 
+    3-1-0:   : BO    3-1-1:   :     3-1-2:   : S
+    3-2-0:   :     3-2-1:   :     3-2-2:   : 
+    4-0-0:   :     4-0-1:   :     4-0-2:   : O
+    4-1-0:   :     4-1-1:   : B    4-1-2:   : 
+    4-2-0:   :     4-2-1:   :     4-2-2:   : 
+
+Brawler - 0 Treasure(s) - 2 damage
+Sneaker - 2 Treasure(s) - 0 damage
+Runner - 1 Treasure(s) - 0 damage
+Thief - 2 Treasure(s) - 1 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 3 Remaining
+
+
+RotLA Turn 7:
+The Brawler has found a treasure!
+The Thief has found a treasure!
+    0-1-1: 
+    1-0-0:  S :     1-0-1:   :     1-0-2:   : 
+    1-1-0:   : B    1-1-1:  BT :     1-1-2:   : B
+    1-2-0:  R : B    1-2-1:   :     1-2-2:   : 
+    2-0-0:   : O    2-0-1:   :     2-0-2:   : 
+    2-1-0:   :     2-1-1:   :     2-1-2:   : O
+    2-2-0:   :     2-2-1:   :     2-2-2:   : 
+    3-0-0:   : O    3-0-1:   : S    3-0-2:   : 
+    3-1-0:   :     3-1-1:   :     3-1-2:   : S
+    3-2-0:   :     3-2-1:   :     3-2-2:   : 
+    4-0-0:   :     4-0-1:   :     4-0-2:   : 
+    4-1-0:   :     4-1-1:   :     4-1-2:   : O
+    4-2-0:   :     4-2-1:   :     4-2-2:   : 
+
+Brawler - 1 Treasure(s) - 2 damage
+Sneaker - 2 Treasure(s) - 0 damage
+Runner - 1 Treasure(s) - 0 damage
+Thief - 3 Treasure(s) - 1 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 3 Remaining
+
+
+RotLA Turn 8:
+A Blinker has been killed by the Brawler
+Brawler celebrates, Spin, Spin
+The Thief has found a treasure!
+A Blinker has been killed by the Runner
+Runner celebrates, Dance, Jump, Jump
+A Orbiter has been killed by the Brawler
+Brawler celebrates, Shout, Jump, Jump
+A Orbiter has been killed by the Brawler
+Brawler celebrates, Jump, Spin
+    0-1-1: 
+    1-0-0:   :     1-0-1:   :     1-0-2:   : 
+    1-1-0:  S : B    1-1-1:   :     1-1-2:  BT : 
+    1-2-0:  R :     1-2-1:   :     1-2-2:   : 
+    2-0-0:   :     2-0-1:   : O    2-0-2:   : 
+    2-1-0:   :     2-1-1:   :     2-1-2:   : O
+    2-2-0:   :     2-2-1:   :     2-2-2:   : 
+    3-0-0:   :     3-0-1:   : SO    3-0-2:   : 
+    3-1-0:   :     3-1-1:   :     3-1-2:   : S
+    3-2-0:   :     3-2-1:   :     3-2-2:   : 
+    4-0-0:   :     4-0-1:   :     4-0-2:   : 
+    4-1-0:   :     4-1-1:   :     4-1-2:   : O
+    4-2-0:   :     4-2-1:   :     4-2-2:   : 
+
+Brawler - 1 Treasure(s) - 2 damage
+Sneaker - 2 Treasure(s) - 0 damage
+Runner - 1 Treasure(s) - 0 damage
+Thief - 4 Treasure(s) - 1 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 1 Remaining
+
+
+RotLA Turn 9:
+The Thief has found a treasure!
+    0-1-1: 
+    1-0-0:   :     1-0-1:   :     1-0-2:  B : 
+    1-1-0:   :     1-1-1:  ST :     1-1-2:   : 
+    1-2-0:  R :     1-2-1:   :     1-2-2:   : 
+    2-0-0:   :     2-0-1:   :     2-0-2:   : O
+    2-1-0:   :     2-1-1:   :     2-1-2:   : O
+    2-2-0:   :     2-2-1:   :     2-2-2:   : 
+    3-0-0:   :     3-0-1:   : S    3-0-2:   : BO
+    3-1-0:   :     3-1-1:   :     3-1-2:   : S
+    3-2-0:   :     3-2-1:   :     3-2-2:   : 
+    4-0-0:   :     4-0-1:   :     4-0-2:   : 
+    4-1-0:   :     4-1-1:   :     4-1-2:   : O
+    4-2-0:   :     4-2-1:   :     4-2-2:   : 
+
+Brawler - 1 Treasure(s) - 2 damage
+Sneaker - 2 Treasure(s) - 0 damage
+Runner - 1 Treasure(s) - 0 damage
+Thief - 5 Treasure(s) - 1 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 1 Remaining
+
+
+RotLA Turn 10:
+    0-1-1: 
+    1-0-0:  R :     1-0-1:  S :     1-0-2:   : 
+    1-1-0:   :     1-1-1:   :     1-1-2:  BT : 
+    1-2-0:   :     1-2-1:   :     1-2-2:   : 
+    2-0-0:   :     2-0-1:   :     2-0-2:   : 
+    2-1-0:   :     2-1-1:   :     2-1-2:   : OO
+    2-2-0:   : B    2-2-1:   :     2-2-2:   : 
+    3-0-0:   :     3-0-1:   : S    3-0-2:   : 
+    3-1-0:   :     3-1-1:   :     3-1-2:   : SO
+    3-2-0:   :     3-2-1:   :     3-2-2:   : 
+    4-0-0:   :     4-0-1:   :     4-0-2:   : 
+    4-1-0:   :     4-1-1:   :     4-1-2:   : O
+    4-2-0:   :     4-2-1:   :     4-2-2:   : 
+
+Brawler - 1 Treasure(s) - 2 damage
+Sneaker - 2 Treasure(s) - 0 damage
+Runner - 1 Treasure(s) - 0 damage
+Thief - 5 Treasure(s) - 1 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 1 Remaining
+
+
+RotLA Turn 11:
+The Brawler has found a treasure!
+The Sneaker has found a treasure!
+The Runner has found a treasure!
+    0-1-1: 
+    1-0-0:  S :     1-0-1:   :     1-0-2:  B : 
+    1-1-0:   :     1-1-1:  TR :     1-1-2:   : 
+    1-2-0:   :     1-2-1:   :     1-2-2:   : 
+    2-0-0:   :     2-0-1:   :     2-0-2:   : 
+    2-1-0:   :     2-1-1:   :     2-1-2:   : O
+    2-2-0:   :     2-2-1:   :     2-2-2:   : BO
+    3-0-0:   :     3-0-1:   : S    3-0-2:   : 
+    3-1-0:   :     3-1-1:   :     3-1-2:   : S
+    3-2-0:   :     3-2-1:   :     3-2-2:   : O
+    4-0-0:   :     4-0-1:   :     4-0-2:   : 
+    4-1-0:   :     4-1-1:   :     4-1-2:   : O
+    4-2-0:   :     4-2-1:   :     4-2-2:   : 
+
+Brawler - 2 Treasure(s) - 2 damage
+Sneaker - 3 Treasure(s) - 0 damage
+Runner - 2 Treasure(s) - 0 damage
+Thief - 5 Treasure(s) - 1 damage
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 1 Remaining
+
+
+Ending the game:
+The game ended because the adventurers found all the treasures!
